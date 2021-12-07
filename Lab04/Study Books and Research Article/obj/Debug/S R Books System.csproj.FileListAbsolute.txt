@@ -1,0 +1,11 @@
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\bin\Debug\S R Books System.exe.config
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\bin\Debug\S R Books System.exe
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\bin\Debug\S R Books System.pdb
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\obj\Debug\S R Books System.csproj.AssemblyReference.cache
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\obj\Debug\S R Books System.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\obj\Debug\S_R_Books_System.Form1.resources
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\obj\Debug\S_R_Books_System.Properties.Resources.resources
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\obj\Debug\S R Books System.csproj.GenerateResource.cache
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\obj\Debug\S R Books System.csproj.CoreCompileInputs.cache
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\obj\Debug\S R Books System.exe
+C:\Users\kazij\Google Drive (jawadulislam2@iut-dhaka.edu)\IUT\2nd Semester\SWE_4202 Object Oriented Concepts 1 Lab\Lab04\S R Books System\obj\Debug\S R Books System.pdb
